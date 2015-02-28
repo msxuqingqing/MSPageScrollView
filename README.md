@@ -5,5 +5,5 @@ iOS横向多页滑动，多导航页切换，横向TableView，原生乐视视�
 ![](https://github.com/msxuqingqing/MSPageScrollView/blob/master/screenshots/1.png)
 ![](https://github.com/msxuqingqing/MSPageScrollView/blob/master/screenshots/2.png)
 ![](https://github.com/msxuqingqing/MSPageScrollView/blob/master/screenshots/3.png)
-![](https://github.com/msxuqingqing/MSPageScrollView/blob/master/screenshots/5.png)
 ![](https://github.com/msxuqingqing/MSPageScrollView/blob/master/screenshots/4.png)
+![](https://github.com/msxuqingqing/MSPageScrollView/blob/master/screenshots/5.png)
