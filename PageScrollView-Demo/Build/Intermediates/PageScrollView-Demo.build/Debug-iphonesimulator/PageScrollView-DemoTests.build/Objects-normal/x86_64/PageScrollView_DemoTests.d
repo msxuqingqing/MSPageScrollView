@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/xuqingqing/Desktop/PageScrollView-Demo/PageScrollView-DemoTests/PageScrollView_DemoTests.m \
+  /Users/xuqingqing/Desktop/PageScrollView/PageScrollView-Demo/PageScrollView-DemoTests/PageScrollView_DemoTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h \

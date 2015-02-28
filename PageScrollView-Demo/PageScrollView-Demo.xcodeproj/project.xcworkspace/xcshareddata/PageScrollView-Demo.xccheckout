@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C301F762-F8CD-4EFD-92FC-3ADABE28727F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PageScrollView-Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E11492FF302A3889A1F2519F96AE158C634EC32A</key>
+		<string>https://github.com/msxuqingqing/MSPageScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PageScrollView-Demo/PageScrollView-Demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E11492FF302A3889A1F2519F96AE158C634EC32A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/msxuqingqing/MSPageScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E11492FF302A3889A1F2519F96AE158C634EC32A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E11492FF302A3889A1F2519F96AE158C634EC32A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PageScrollView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
