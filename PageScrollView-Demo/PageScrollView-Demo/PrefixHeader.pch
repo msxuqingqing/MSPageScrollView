@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  PageScrollView-Demo
+//
+//  Created by XuQingQing on 15-1-25.
+//  Copyright (c) 2015年 XQQ. All rights reserved.
+//
+
+#ifndef PageScrollView_Demo_PrefixHeader_pch
+#define PageScrollView_Demo_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//设备屏幕宽高
+#define KDevice_Width [[UIScreen mainScreen] bounds].size.width
+#define KDevice_Height [[UIScreen mainScreen] bounds].size.height
+#endif
