@@ -39,7 +39,8 @@
     self.titleArray = @[@"头条", @"新鲜事", @"体育直播", @"动漫", @"游戏", @"手机", @"财经", @"宠物", @"本地", @"汽车", @"旅游", @"趣味", @"世界杯"];
     self.view.backgroundColor = [UIColor whiteColor];
     CGFloat pageHeight = KDevice_Height - kStatusBarHeight - kBottomHeight;
-    self.tabScrollView = [[MSTabScrollView alloc]initWithPageWidth:KDevice_Width PageHeight:pageHeight Delegate:self];
+    CGFloat pageWidth = KDevice_Width;
+    self.tabScrollView = [[MSTabScrollView alloc]initWithPageWidth:pageWidth  PageHeight:pageHeight Delegate:self];
     self.tabScrollView.tabSelectedColor = [UIColor colorWithRed:0/255.0 green:160/255.0 blue:233/255.0 alpha:1]; //默认颜色，可不设置
     self.tabScrollView.tabBackgroundColor = [UIColor colorWithRed:0.9 green:0.9 blue:0.9 alpha:1]; //默认颜色，可不设置
     self.tabScrollView.selectedTabIndex = 0; //默认位置，可不设置
@@ -57,7 +58,7 @@
 
     
     //非自动布局时需设置self.tabScrollView的frame, 代替上面代码
-    //[self.tabScrollView setFrame:CGRectMake(30, 50, KDevice_Width - 80, pageHeight)];
+//    [self.tabScrollView setFrame:CGRectMake(0, kStatusBarHeight, pageWidth, pageHeight)];
 }
 
 - (void)createBottomView {
